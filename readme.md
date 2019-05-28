@@ -4,6 +4,8 @@
 
 ![MX-ALPS-Choc-X footprint](https://raw.githubusercontent.com/shikamiya/kicad-footprint-kailh-pg1425-x-switch/master/footprint-4-kind-hybrid-with-jumper.png)
 
+this footprint is based on [ai03-2725/MX_Alps_hybrid.pretty](https://github.com/ai03-2725/MX_Alps_Hybrid.pretty).
+
 ## Normal
 
 ![PG1425 X Switch footprint](https://raw.githubusercontent.com/shikamiya/kicad-footprint-kailh-pg1425-x-switch/master/footprint-kailh-pg1425-x-switch.png)

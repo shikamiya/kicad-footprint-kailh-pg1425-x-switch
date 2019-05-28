@@ -1,5 +1,9 @@
 # KiCad footprint for Kailh PG1425 X Switch
 
+## 4 kind(MX/ALPS/Choc/X switch) hybrid with jumper for reversible choc switch
+
+![MX-ALPS-Choc-X footprint](https://raw.githubusercontent.com/shikamiya/kicad-footprint-kailh-pg1425-x-switch/master/footprint-4-kind-hybrid-with-jumper.png)
+
 ## Normal
 
 ![PG1425 X Switch footprint](https://raw.githubusercontent.com/shikamiya/kicad-footprint-kailh-pg1425-x-switch/master/footprint-kailh-pg1425-x-switch.png)

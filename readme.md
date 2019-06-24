@@ -1,5 +1,9 @@
 # KiCad footprint for Kailh PG1425 X Switch
 
+## Update
+Sorry for wrong direction footprint, and I fixed it! please fetch again and update!  
+リバーシブルでないフットプリントの向きを間違えていたのを修正しました。(画像は未修正です)
+
 ## 4 kind(MX/ALPS/Choc/X switch) hybrid with jumper for reversible choc switch
 
 ![MX-ALPS-Choc-X footprint](https://raw.githubusercontent.com/shikamiya/kicad-footprint-kailh-pg1425-x-switch/master/footprint-4-kind-hybrid-with-jumper.png)
